@@ -1,3 +1,15 @@
+# FFMPEG
+ffmpeg.exe
+ffplay.exe
+ffprobe.exe
+
+# NASBench
+nasbench_full.tfrecord
+nasbench_only108.tfrecord
+
+# JetBrains
+.idea/**/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
